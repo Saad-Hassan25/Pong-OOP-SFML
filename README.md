@@ -42,7 +42,7 @@
         <li>Build the project.</li>
         <li>Run the executable file generated.</li>
     </ol>
-    <h2>Credits</h2>
+   
   
 </body>
 </html>
