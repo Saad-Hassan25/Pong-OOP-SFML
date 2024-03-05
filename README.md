@@ -28,8 +28,8 @@
     <h2>How to Play</h2>
     <ol>
         <li>Run the game executable.</li>
-        <li>Use the arrow keys or W/S keys for Player 1 (left paddle).</li>
-        <li>Use the mouse or arrow keys for Player 2 (right paddle).</li>
+        <li>Use the Q/A keys for Player 1 (left paddle).</li>
+        <li>Use the O/L keys for Player 2 (right paddle).</li>
         <li>Hit the ball with the paddle to prevent it from passing.</li>
         <li>Score points by making the ball pass the opponent's paddle.</li>
         <li>The game ends when one player reaches the maximum score or players decide to quit.</li>
